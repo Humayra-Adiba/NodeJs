@@ -1,0 +1,20 @@
+{
+  "name": "external_module",
+  "version": "1.0.0",
+  "description": "this npm testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "nodemon"
+  ],
+  "author": "Humayra Adiba",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits": "^0.2.1"
+  }
+}
